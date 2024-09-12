@@ -1,11 +1,13 @@
 .wrapper {
+    max-width: 1200px;
     width: 100%;
     background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 3em;
-    padding: 6em 2em;
+    margin: auto;
+    /* gap: 3em; */
+    /* padding: 6em 2em; */
 
 }
 
